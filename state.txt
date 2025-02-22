@@ -1,0 +1,38 @@
+"TAMILNADU"
+"JAMMU & KASHMIR"
+"ANDHRA PRADESH"
+"KARNATAKA"
+"MADHYA PRADESH"
+"KERALA"
+"ASSAM"
+"TELANGANA"
+"PUDUCHERRY"
+"GUJARAT"
+"HARYANA"
+"BIHAR"
+"HIMACHAL PRADESH"
+andhaman  = 25-
+arunachal pradesh = 22-
+chandigarh = 26-
+chattisgar = 33-
+dadar & nagar haveli = 30-
+daman diu = 31-
+delhi = 27-
+foriegn schools = 50-
+goa = 28-
+jharkand = 34-
+ladakh = 37-
+lakshadweep = 32-
+maharashtra = 11 -
+manipur = 12-
+meghalaya = 13-
+mizoram 23-
+nagaland = 14-
+odisha = 15-
+punjab = 16 -
+rajasthan = 17-
+sikim = 18-
+tripura = 20-
+uttar pradesh = 21-
+uttarkhand = 35 -
+west bengal = 24 -
